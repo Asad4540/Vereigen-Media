@@ -9,7 +9,7 @@ const HeroSection = () => {
       <Container>
         <div className="hero-nav flex items-center justify-between px-8 py-4">
           <div className="flex items-center">
-            <img src="VM-logo.png" alt="Hero" className="hero-logo mr-4" />
+            <img src="VM-logo.png" alt="" className="hero-logo mr-4" />
             <h3 className="text-xl font-bold">VEREIGEN MEDIA</h3>
           </div>
           <div className="flex items-center space-x-6">
