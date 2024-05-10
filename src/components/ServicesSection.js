@@ -5,7 +5,7 @@ import { Container, Row, Col } from 'reactstrap';
 const ServicesSection = () => {
   return (
     <section className="services-section">
-      <Container>
+      <Container className='mx-10 -mt-10'>
         <h2 className="services-title">Why Choose Vereigen Media?</h2>
         <Row>
           <Col md="4">
