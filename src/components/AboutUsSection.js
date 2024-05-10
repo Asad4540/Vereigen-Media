@@ -5,7 +5,7 @@ import React from 'react';
 
 const AboutUsSection = () => {
   return (
-    <div className="about-us -m-16">
+    <div className="about-us -m-16 mb-1">
       <div className="container mx-auto px-4">
         <h2 className="text-4xl font-semibold text-center mb-12">Testimonials</h2>
         <h4 className='text-l text-center -mt-8 mb-8'>Hear What Our Clients Say...</h4>

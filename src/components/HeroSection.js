@@ -7,12 +7,15 @@ const HeroSection = () => {
   return (
     <section className="hero-section mx-auto">
       <Container>
-        <div className="hero-nav">
-          <div className='flex '>
-          <img src="VM-logo.svg" alt="Hero " className="hero-logo ml-8 mb-2" />
+        <div className="hero-nav flex items-center justify-between px-8 py-4">
+          <div className="flex items-center">
+            <img src="VM-logo.svg" alt="Hero" className="hero-logo mr-4" />
+            <h3 className="text-xl font-bold">VEREIGEN MEDIA</h3>
           </div>
-          <div>
-            <h3 className='text-xl'>VEREIGEN MEDIA</h3>
+          <div className="flex items-center space-x-6">
+            <a href="" className="text-slate-50 hover:text-gray-900 transition duration-300 ease-in-out">Home</a>
+            <a href="" className="text-slate-50 hover:text-gray-900 transition duration-300 ease-in-out">Services</a>
+            <a href="" className="text-slate-50 hover:text-gray-900 transition duration-300 ease-in-out">About</a>
           </div>
         </div>
         <Row>

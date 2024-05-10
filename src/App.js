@@ -6,6 +6,7 @@ import HeroSection from './components/HeroSection';
 import ServicesSection from './components/ServicesSection';
 import AboutUsSection from './components/AboutUsSection';
 import FooterSection from './components/FooterSection';
+import ContactForm from './components/ContactForm';
 //import './Style.css'
 
 
@@ -17,6 +18,7 @@ function App() {
       <HeroSection />
       <ServicesSection />
       <AboutUsSection />
+      <ContactForm />
       <FooterSection />
     </Container>
   );
