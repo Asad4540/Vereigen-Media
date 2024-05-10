@@ -24,7 +24,7 @@ const HeroSection = () => {
             <p className="hero-subtitle">Vereigen Media - Your Partner in Lead Generation Excellence</p>
           </Col>
           <Col md="6">
-            <img src="vg-hero.png" alt="Hero " className="hero-image" />
+            <img src="imglogo.png" alt="Hero " className="hero-image" />
           </Col>
           <Col md="6">
             <h3 className='hero-intro mt-4 mx-10 mb-8'>At Vereigen Media, we understand that in the ever-evolving world of B2B business, leads are
